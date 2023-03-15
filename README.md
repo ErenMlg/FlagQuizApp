@@ -7,7 +7,7 @@ I used SQLite database for the flag name and pics,<br>
 Custom Toolbar and Buttons,<br>
 I used ViewBinding for the connect design.
 
-## Proje Görüntüleri
+## App Pics
 
 <p>
 <img src="https://user-images.githubusercontent.com/94524411/225426083-5b3980be-d3a5-4ec7-a4c2-738ea2b730f7.jpg" width=100>
